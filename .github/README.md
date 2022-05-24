@@ -3,7 +3,7 @@
     <img alt="MyOrchids" src="myorchids_logo.jpg"/>
     <br>
     <!-- This and other base64 flags are available at https://www.phoca.cz/cssflags/ -->
-    <a href="https://github.com/PatrickTheDev/MyOrchids/blob/master/.github/README_de.md">
+    <a href="https://github.com/PatrickTheDev/MyOrchids/blob/main/.github/README_de.md">
         <img height="20px" src="https://img.shields.io/badge/DE-flag.svg?color=555555&style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBoZWlnaHQ9IjYwMCIgdmlld0JveD0iMCAwIDUgMyI+DQo8cGF0aCBkPSJtMCwwaDV2M2gtNXoiLz4NCjxwYXRoIGZpbGw9IiNkMDAiIGQ9Im0wLDFoNXYyaC01eiIvPg0KPHBhdGggZmlsbD0iI2ZmY2UwMCIgZD0ibTAsMmg1djFoLTV6Ii8+DQo8L3N2Zz4NCg==">
     </a>
 </p>
