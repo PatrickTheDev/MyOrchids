@@ -26,8 +26,13 @@
 <!--te-->
 
 ## 📜 Background
+- Start project blabla
 
 ## 🎯 (Current) features
+- ABC
+- XYZ
+- ABC
+- XYZ
 
 ## 🛣️ Roadmap
 - MyOrchidsViewPager, inspired by [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
