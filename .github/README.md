@@ -65,9 +65,8 @@ Check the [user manual]() or the wiki for usage instructions.
 See the [help page]() for how to submit a bug report.
 
 ## 📬 Have a question? Want to chat?
-Write me a [mail](mailto:patrickpaul@posteo.de)
-</br>
-Chat with me on [matrix](https://matrix.to/#/@patrickthedev:matrix.org)
+Write me a [mail](mailto:patrickpaul@posteo.de) 📧 -or-
+chat with me on [matrix](https://matrix.to/#/@patrickthedev:matrix.org) 💬. :)
 
 [0]: https://developer.android.com/topic/architecture
 [1]: https://developer.android.com/topic/libraries/data-binding/
