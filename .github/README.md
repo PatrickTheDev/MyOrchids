@@ -32,7 +32,7 @@
 ## 🛣️ Roadmap
 - MyOrchidsViewPager, inspired by [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
 - Taking notes about your orchids
-  - Weather data API, see [OrchidWeather]()
+- Weather data API, see [OrchidWeather]()
 - Push notifications with alerts to warn you about outside temperatures that may damage your orchids standing outside 🥶⚠️
 - Polishing the UI 💅✨
 
