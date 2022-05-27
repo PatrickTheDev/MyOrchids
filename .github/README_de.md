@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/>
 </p>
 
-<p align="center">An Android application for tracking care of your orchids and collecting information about orchids in general.</p>
+<p align="center">An Android application for tracking the growth of your orchids, making care easier and collecting information about orchids in general.</p>
 <p align="center">A big project I am always working on, whenever I have time. I hope I can publish a first release soon.</p>
 
 ## 🎯 Features
