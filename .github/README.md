@@ -12,6 +12,9 @@
     <!-- This and other shields are available at https://shields.io/ -->
     <img src="https://img.shields.io/badge/OS-Android-green?style=flat&logo=android"/>
     <img src="https://img.shields.io/badge/API-21%2B-brightgreen.svg?style=flat"/>
+    <a href="https://matrix.to/#/@patrickthedev:matrix.org">
+        <img src="https://img.shields.io/badge/Chat%20on-matrix-03b381">
+    </a>
 </p>
 
 <p align="center">An Android application for tracking the growth of your orchids, making care easier and collecting information about orchids in general.</p>
@@ -62,7 +65,9 @@ Check the [user manual]() or the wiki for usage instructions.
 See the [help page]() for how to submit a bug report.
 
 ## 📬 Have a question? Want to chat?
-PatrickPaulDev@gmail.com
+Write me a [mail](mailto:patrickpaul@posteo.de)
+</br>
+Chat with me on [matrix](https://matrix.to/#/@patrickthedev:matrix.org)
 
 [0]: https://developer.android.com/topic/architecture
 [1]: https://developer.android.com/topic/libraries/data-binding/
