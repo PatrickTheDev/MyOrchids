@@ -18,7 +18,6 @@
 </p>
 
 <p align="center">An Android application for tracking the growth of your orchids, making care easier and collecting information about orchids in general.</p>
-<p align="center">A big project I am always working on, whenever I have time. I hope I can publish a first release soon.</p>
 
 ## Table of contents
 <!--ts-->
@@ -29,17 +28,21 @@
 <!--te-->
 
 ## 📜 Background
-<p>Start project blabla</p>
+<p>
+I started this project to have a possibility to practice and implement new things I learn in android development. <br>
+One of my hobbies is keeping and collecting orchids and that also was part of my inspiration to develop this app. <br>
+I still work on this project whenever I have time and hope that I can release a full first version soon.
+</p>
 
 ## 🎯 Current features
-- ABC
-- XYZ
-- ABC
-- XYZ
+- Creating and edit a data set with information about an orchid
+- Add/remove images to/from an orchid data set
+- Add orchids to a collection, indicating you own one of that kind
 
 ## 🛣 Roadmap
 - MyOrchidsViewPager, inspired by [MaterialViewPager](https://github.com/florent37/MaterialViewPager)
-- Taking notes about your orchids 📝
+- Enable taking notes about your orchids 📝
+- Implement a feature that enables the app to remind you of things like watering 💦
 - Weather data API, see [OrchidWeather](https://github.com/PatrickTheDev/OrchidWeather) 🌦
 - Push notifications with alerts to warn you about outside temperatures that may damage your orchids standing outside 🥶⚠️
 - Polishing the UI 💅✨
