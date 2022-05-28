@@ -23,17 +23,17 @@
 ## Table of contents
 <!--ts-->
 * [Background](#-background)
-* [(Current) features](#-current-features)
+* [Current features](#-current-features)
 * [Roadmap](#-roadmap)
 * [Tools and technologies being used](#-tools-and-technologies-being-used)
-* [Help](#-help)
+<!-- * [Help](#-help) -->
 * [Have a question? Want to chat?](#-have-a-question-want-to-chat)
 <!--te-->
 
 ## 📜 Background
-- Start project blabla
+<p>Start project blabla</p>
 
-## 🎯 (Current) features
+## 🎯 Current features
 - ABC
 - XYZ
 - ABC
@@ -60,9 +60,11 @@
   - [Dagger][9] and [Hilt][10] for [DI][11].
   - [Kotlin Coroutines][12] and [Flow][13] for managing asynchronous programming and stream processing.
 
-## ℹ️ Help
+<!--
+## ℹ️ Getting help
 Check the [user manual]() or the wiki for usage instructions. 
 See the [help page]() for how to submit a bug report.
+-->
 
 ## 📬 Have a question? Want to chat?
 Write me a [mail](mailto:patrickpaul@posteo.de) 📧 -or-
