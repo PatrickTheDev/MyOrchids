@@ -25,8 +25,6 @@
 * [Background](#-background)
 * [Current features](#-current-features)
 * [Roadmap](#-roadmap)
-* [Tools and technologies being used](#-tools-and-technologies-being-used)
-<!-- * [Help](#-help) -->
 * [Have a question? Want to chat?](#-have-a-question-want-to-chat)
 <!--te-->
 
@@ -67,8 +65,10 @@ See the [help page]() for how to submit a bug report.
 -->
 
 ## 📬 Have a question? Want to chat?
-Write me a [mail](mailto:patrickpaul@posteo.de) 📧 -or-
-chat with me on [matrix](https://matrix.to/#/@patrickthedev:matrix.org) 💬. :)
+<p>Write me a <a href="mailto:patrickpaul@posteo.de">mail</a> 📧</p>
+<p>-or-</p>
+<p>chat with me on <a href="https://matrix.to/#/@patrickthedev:matrix.org">matrix</a> 💬. :)</p>
+
 
 [0]: https://developer.android.com/topic/architecture
 [1]: https://developer.android.com/topic/libraries/data-binding/
