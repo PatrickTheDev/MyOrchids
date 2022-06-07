@@ -67,6 +67,7 @@ I still work on this project whenever I have time and hope that I can release a 
   - [Coil][8] for image loading backed by Kotlin Coroutines.
   - [Dagger][9] and [Hilt][10] for [DI][11].
   - [Kotlin Coroutines][12] and [Flow][13] for managing asynchronous programming and stream processing.
+  - [LeakCanary][14] for memory leak detection.
 
 <!--
 ## ℹ️ Getting help
@@ -94,3 +95,4 @@ See the [help page]() for how to submit a bug report.
 [11]: https://developer.android.com/training/dependency-injection
 [12]: https://kotlinlang.org/docs/coroutines-overview.html
 [13]: https://kotlinlang.org/docs/flow.html
+[14]: https://square.github.io/leakcanary/
